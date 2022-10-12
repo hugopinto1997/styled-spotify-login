@@ -1,4 +1,4 @@
-# React 18 + TypeScript Template
+# React 18 + TypeScript (Spotify Login Clone)
 
 This project was bootstrapped with Vite.
 
